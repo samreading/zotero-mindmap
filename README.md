@@ -78,6 +78,10 @@ https://github.com/user-attachments/assets/dd26e47d-f2e1-49d1-9937-c0f0a859b7e4
 
 <img width="483" height="211" alt="7ac94951-91ed-4722-8c5c-1420d2a01ea5" src="https://github.com/user-attachments/assets/91c0028b-073f-4ca9-bdbe-6e3e305f2d95" />
 
+### node support markdown
+- support math , for example: `$a=b$`
+- `==highlight==` and `**bold**`
+
 
 
 ### Advanced features of MindMap 
