@@ -2,6 +2,8 @@
 
 ## How get active code
 
+Catalyst support all free feature and Advanced features of MindMap
+
 | Free                                     | Catalyst                                           |
 | ---------------------------------------- | -------------------------------------------------- |
 |  `Basic` feature of MindMap              |           Advanced features of MindMap            |
