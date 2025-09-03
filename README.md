@@ -55,8 +55,8 @@ https://github.com/user-attachments/assets/ac87005a-a813-44f1-827e-0710b5035872
 
 
 
-4. open mindmap in a new tab 
-   - dblclick item to open in a new tab
+#### open mindmap in a new tab 
+   - dblclick `zmind` item to open in a new tab
 
 <img width="800" height="600" alt="Zotero mindmap" src="https://github.com/user-attachments/assets/b9b6dcc3-c969-4995-9906-f3bd2f341043" />
 
