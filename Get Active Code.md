@@ -11,7 +11,7 @@ Catalyst support all free feature and Advanced features of MindMap
 |     export to png                        |           add boundary                            |
 |     import xmind file                    |     add relate link and callout                   | 
 |     Support  PDF annotate                |      (import or Export) to xmind and png          |
-|                                          |      more themes and ai feature (developing)      |
+|                                          |      more themes and future feature (developing)      |
 |  $0                                      |      60$/forever                                  |
 
 
