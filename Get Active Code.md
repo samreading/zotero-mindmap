@@ -25,6 +25,17 @@
 
 ### The menus in Catalyst
 
+<img width="479" height="88" alt="QQ_1756885318556" src="https://github.com/user-attachments/assets/9d8e9de0-6eb5-41ee-ad7a-fff2089534af" />
+
+### input your active code
+
+<img width="359" height="494" alt="image" src="https://github.com/user-attachments/assets/99cef82f-c94c-463c-bf38-e5a90fc87ea1" />
+
+
+<img width="829" height="483" alt="QQ_1756885977948" src="https://github.com/user-attachments/assets/8ec465b8-afa1-41a5-882d-1c95658f9891" />
+
+
+
 
 
 
