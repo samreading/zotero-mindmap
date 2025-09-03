@@ -25,9 +25,19 @@ Catalyst support all free feature and Advanced features of MindMap
 
 3. open settings menu `import plugin from file`  <img width="300" height="150" alt="4df1d1a6-d202-463e-ae0b-9f03702749cc" src="https://github.com/user-attachments/assets/91bc8ae1-b247-4c10-95c9-02b7e0a7e980" />
 
+
 ----
 
+
+
 #### `Basic` feature of MindMap
+
+1. right click to create new mindmap
+
+
+2. Input maindmap name and sure to create mindmap
+
+
 
 
 
