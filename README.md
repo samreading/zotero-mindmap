@@ -57,7 +57,7 @@ Catalyst support all free feature and Advanced features of MindMap
 
 
 
-#### MindMap Outline short cuts
+#### MindMap short cuts
 
 | Feature                               | Short Cut                                 |
 | ------------------------------------- | ----------------------------------------- |
@@ -70,8 +70,26 @@ Catalyst support all free feature and Advanced features of MindMap
 | Delete summary/boundary/related link  | Delete/Backspace                          |
 
 
+
 #### Advanced features of MindMap 
 
+1. add summary
+
+<img width="532" height="167" alt="QQ_1756868241359" src="https://github.com/user-attachments/assets/072bde41-a07a-431a-82d0-dd3325887f2b" />
+
+
+2. add boundary
+
+<img width="491" height="121" alt="23068545-c299-4dc6-a666-4eeb16c2a033" src="https://github.com/user-attachments/assets/a3a6550a-a126-47dc-824d-31fe79a592e0" />
+
+
+3. add relatelink
+
+
+
+4 add callout
+
+5 export to xmind
 
 
 
