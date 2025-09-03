@@ -29,7 +29,7 @@ Catalyst support all free feature and Advanced features of MindMap
 
 
 
-#### `Basic` feature of MindMap
+### `Basic` feature of MindMap
 
 1. right click to create new mindmap
 
@@ -71,7 +71,7 @@ Catalyst support all free feature and Advanced features of MindMap
 
 
 
-#### Advanced features of MindMap 
+### Advanced features of MindMap 
 
 1. add summary
 
@@ -96,6 +96,18 @@ Catalyst support all free feature and Advanced features of MindMap
 5 export to xmind, right click blank to export to xmind
 
 <img width="262" height="184" alt="29aaf379-9806-47c8-9ae0-fa16001f9f95" src="https://github.com/user-attachments/assets/9da9d30c-22de-4acf-9239-8e3a01be8cda" />
+
+
+### support pdf annotate
+
+- drag annotate to mindmap , support image
+
+https://github.com/user-attachments/assets/7f05be8b-065f-45a6-ba78-97bce84e8079
+
+- click node to show annotate in pdf
+
+
+https://github.com/user-attachments/assets/e1d6ab4a-43ab-4f1a-aabe-3e94c7ec0b85
 
 
 
