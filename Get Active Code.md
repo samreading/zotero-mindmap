@@ -29,7 +29,8 @@
 
 ### input your active code
 
-<img width="359" height="494" alt="image" src="https://github.com/user-attachments/assets/99cef82f-c94c-463c-bf38-e5a90fc87ea1" />
+<img width="327" height="386" alt="image" src="https://github.com/user-attachments/assets/cd012f3c-c119-46dd-960d-83f0e22e4abf" />
+
 
 
 <img width="829" height="483" alt="QQ_1756885977948" src="https://github.com/user-attachments/assets/8ec465b8-afa1-41a5-882d-1c95658f9891" />
