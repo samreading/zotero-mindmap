@@ -1,8 +1,10 @@
 # Zotero mindmap
 
+[![Using Zotero Plugin Template](https://img.shields.io/badge/Using-Zotero%20Plugin%20Template-blue?style=flat-square&logo=github)](https://github.com/windingwind/zotero-plugin-template)
+
+
 <img width="800" height="600" alt="d707165b-2014-47cb-a6ce-04c5193ed83f" src="https://github.com/user-attachments/assets/aa46eade-0726-4f80-99e5-e6272a203dec" />
 
-[![Using Zotero Plugin Template](https://img.shields.io/badge/Using-Zotero%20Plugin%20Template-blue?style=flat-square&logo=github)](https://github.com/windingwind/zotero-plugin-template)
 
 
 ### Feature Comparison
