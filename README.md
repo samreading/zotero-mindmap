@@ -125,12 +125,11 @@ https://github.com/user-attachments/assets/dd26e47d-f2e1-49d1-9937-c0f0a859b7e4
 
 ### support pdf annotate
 
-- drag annotate to mindmap , support image
+- drag annotate to mindmap , support add image of rect annotate 
 
 https://github.com/user-attachments/assets/7f05be8b-065f-45a6-ba78-97bce84e8079
 
 - click node to show annotate in pdf
-
 
 https://github.com/user-attachments/assets/e1d6ab4a-43ab-4f1a-aabe-3e94c7ec0b85
 
