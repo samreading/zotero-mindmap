@@ -85,11 +85,18 @@ Catalyst support all free feature and Advanced features of MindMap
 
 3. add relatelink
 
+<img width="478" height="150" alt="e837b756-70ce-4d6b-96eb-45cd40f5944d" src="https://github.com/user-attachments/assets/545aceb5-aad7-4d27-ba2b-3b4394654ffb" />
 
 
 4 add callout
 
-5 export to xmind
+<img width="469" height="132" alt="edbde6e8-1374-40ae-9d7e-8d0a0e58843a" src="https://github.com/user-attachments/assets/f3a0c2cf-7406-4676-ba5b-bfd78a030bde" />
+
+
+5 export to xmind, right click blank to export to xmind
+
+<img width="262" height="184" alt="29aaf379-9806-47c8-9ae0-fa16001f9f95" src="https://github.com/user-attachments/assets/9da9d30c-22de-4acf-9239-8e3a01be8cda" />
+
 
 
 
