@@ -55,6 +55,22 @@ Catalyst support all free feature and Advanced features of MindMap
 
 
 
+#### MindMap Outline short cuts
+
+| Feature                               | Short Cut                                 |
+| ------------------------------------- | ----------------------------------------- |
+| New Child Node                        | Tab and Enter                             |
+| Zoom in/out                           | CTRL + Mouse wheel                        |
+| Delete node                           | Delete/Backspace                          |
+| Edit node                             | Space/Double click node                   |
+| Undo                                  | CTRL/CMD + Z                              |
+| Redo                                  | CTRL/CMD + Y                              |
+| Delete summary/boundary/related link  | Delete/Backspace                          |
 
 
 #### Advanced features of MindMap 
+
+
+
+
+
