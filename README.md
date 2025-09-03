@@ -28,7 +28,7 @@ Catalyst support all free feature and Advanced features of MindMap
 
 ### How to install zotero mindmap plugin
 
-1. download plugin []()
+1. download plugin [Download](https://github.com/samreading/zotero-mindmap/releases/download/1.0.0/zotero-mindmap-plugin.xpi)
 2. open `tools` ---> `plugins`  menu 
 
  <img width="267" height="146" alt="26802385b1553e901339d840dc0f4e2e" src="https://github.com/user-attachments/assets/6d3f095d-e184-4494-a2b9-52233f360c2c" />
