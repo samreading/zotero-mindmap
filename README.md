@@ -41,12 +41,10 @@ Catalyst support all free feature and Advanced features of MindMap
 <img width="592" height="253" alt="698cc31e-5a91-4f73-8bd2-9b6e87dba210" src="https://github.com/user-attachments/assets/41d5d90b-c68d-46be-a82e-837566eb52b0" />
 
 3. open mindmap in right side , you can 
-  - open pdf to new tab
-  - open mindmap list
+    - open pdf to new tab
+    - open mindmap list
 <img width="208" height="431" alt="b641f4ac-d258-4660-a9aa-0f44b541412b" src="https://github.com/user-attachments/assets/af9432bb-54de-4874-9d9e-af276c27eeb1" />
-
-  - click to open mindmap 
-
+    - click to open mindmap 
 <img width="800" height="600" alt="d707165b-2014-47cb-a6ce-04c5193ed83f" src="https://github.com/user-attachments/assets/aa46eade-0726-4f80-99e5-e6272a203dec" />
 
 
