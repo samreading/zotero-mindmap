@@ -1,7 +1,6 @@
 # Zotero mindmap
 
-
-<img width="800" height="600" alt="Zotero mindmap" src="https://github.com/user-attachments/assets/b9b6dcc3-c969-4995-9906-f3bd2f341043" />
+<img width="800" height="600" alt="d707165b-2014-47cb-a6ce-04c5193ed83f" src="https://github.com/user-attachments/assets/aa46eade-0726-4f80-99e5-e6272a203dec" />
 
 
 ### Feature Comparison
@@ -48,10 +47,13 @@ Catalyst support all free feature and Advanced features of MindMap
 
 - click to open mindmap 
 
+<img width="800" height="600" alt="d707165b-2014-47cb-a6ce-04c5193ed83f" src="https://github.com/user-attachments/assets/aa46eade-0726-4f80-99e5-e6272a203dec" />
+
 
 4. open mindmap in a new tab 
 - dblclick item to open in a new tab
 
+<img width="800" height="600" alt="Zotero mindmap" src="https://github.com/user-attachments/assets/b9b6dcc3-c969-4995-9906-f3bd2f341043" />
 
 
 
