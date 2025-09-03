@@ -5,6 +5,10 @@
 
 <img width="800" height="600" alt="d707165b-2014-47cb-a6ce-04c5193ed83f" src="https://github.com/user-attachments/assets/aa46eade-0726-4f80-99e5-e6272a203dec" />
 
+### please use english language
+
+<img width="728" height="311" alt="287d849a8b0b371b870827933f501b1d" src="https://github.com/user-attachments/assets/d6d379cc-d79a-4db5-a501-36fd2c516bfa" />
+
 
 
 ### Feature Comparison
