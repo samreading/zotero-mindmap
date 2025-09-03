@@ -18,7 +18,7 @@ Catalyst support all free feature and Advanced features of MindMap
 |       support win and mac                 |               add boundary                        |
 |        export to png                      |     add relate link and callout                   | 
 |  import xmind file                        |      import or Export to xmind and png            |
-|  $0                                      | Get active code (forever) [here](https://www.MarkMind.net) |
+|  $0                                      | Get active code (forever) [here]([https://www.MarkMind.net](https://github.com/samreading/zotero-mindmap/blob/main/Get%20Active%20Code.md)) |
 
 
 ### How to install zotero mindmap plugin
