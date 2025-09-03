@@ -32,21 +32,19 @@ Catalyst support all free feature and Advanced features of MindMap
 ### `Basic` feature of MindMap
 
 1. right click to create new mindmap
-
-<img width="300" height="200" alt="e22e2981-dadb-4ded-9da1-de6368645dd5" src="https://github.com/user-attachments/assets/0c9dcc96-253e-4456-92fa-0c453f47df8f" />
-
-
 2. Input maindmap name and sure to create mindmap
-
-<img width="592" height="253" alt="698cc31e-5a91-4f73-8bd2-9b6e87dba210" src="https://github.com/user-attachments/assets/41d5d90b-c68d-46be-a82e-837566eb52b0" />
-
 3. open mindmap in right side , you can 
     - open pdf to new tab
     - open mindmap list
-<img width="208" height="431" alt="b641f4ac-d258-4660-a9aa-0f44b541412b" src="https://github.com/user-attachments/assets/af9432bb-54de-4874-9d9e-af276c27eeb1" />
-    
     - click to open mindmap 
-<img width="800" height="600" alt="d707165b-2014-47cb-a6ce-04c5193ed83f" src="https://github.com/user-attachments/assets/aa46eade-0726-4f80-99e5-e6272a203dec" />
+
+
+https://github.com/user-attachments/assets/2f9bafda-1061-47d6-b869-dc9fe2d87ff9
+
+
+
+https://github.com/user-attachments/assets/ac87005a-a813-44f1-827e-0710b5035872
+
 
 
 4. open mindmap in a new tab 
