@@ -9,8 +9,8 @@
 | Free                                     | Catalyst                                           |
 | ---------------------------------------- | -------------------------------------------------- |
 |  [`Basic` feature](https://www.MarkMind.net) of MindMap                 | Advanced features in `Rich` mode of MindMap        |
-| Support PDF annotate  |                                        |  add summary
+| Support PDF annotate  |                                        |  add summary                 |
 |       support win and mac                          | add boundary                                |
-|        export to png              |                              | add relate link
+|        export to png              |                              | add relate link and callout    |
 |  import xmind file                              | Export to xmind and png                         |
 |  $0                                      | $16 (forever) Buy [here](https://www.MarkMind.net) |
