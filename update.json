@@ -1,0 +1,19 @@
+{
+  "addons": {
+    "vboard@163.com": {
+      "updates": [
+        {
+          "version": "1.0.0",
+          "update_link": "https://github.com/samreading/zotero-mindmap/releases/download/1.0.0/zotero-mindmap-plugin.xpi",
+          "update_hash": "sha512:2e7ba5d1251aced4eae23e4d3b0b732a816c58ebcf0fa9806d91b3a77d4a83d41474cdd3f8199b5b147474894886b54a2d082fcb52f378f8192ddd891286e60d",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999",
+              "strict_max_version": "8.*"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
