@@ -3,13 +3,13 @@
     "vboard@163.com": {
       "updates": [
         {
-          "version": "1.0.3",
-          "update_link": "https://github.com/samreading/zotero-mindmap/releases/download/1.0.0/zotero-mindmap-plugin.xpi",
-          "update_hash": "sha512:6442069d7b93ede8c60bacf784dc332593c1c6ec9576f845e932aa666b817274c0cdbf0e9023d47ad8d659298f9fc6d3385249af4174e3289baaee425c1083c3",
+          "version": "1.0.5",
+          "update_link": "https://github.com/samreading/zotero-mindmap/releases/download/1.0.5/zotero-mindmap-plugin.xpi",
+          "update_hash": "sha512:d7b766053314dc85ce6ea7fab840a36bdc5e1756c1754ee979957cea3b834682c50a4808f5a3f8183d61902b978e2377d77d89bab14e5d64a95c73d959bf6878",
           "applications": {
             "zotero": {
-              "strict_min_version": "6.999",
-              "strict_max_version": "8.*"
+              "strict_min_version": "6.9.9",
+              "strict_max_version": "10.9.9"
             }
           }
         }
